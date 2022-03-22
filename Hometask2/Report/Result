@@ -1,0 +1,33 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1647975577866,5227,Login,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,4551440,58722,1,1,null,0,29167,27
+1647975578011,3086,http://localhost/blog/Account/Login.aspx,200,OK,Thread Group 1-1,text,true,,349886,28732,1,1,http://localhost/blog/,41,0,27
+1647975585523,1765,http://localhost/blog/admin/#/content/posts,200,OK,Thread Group 1-1,text,true,,711874,11087,1,1,http://localhost/blog/admin/#/content/posts,6,0,0
+1647975587289,11,http://localhost/blog/admin/app/content/posts/postView.html,200,OK,Thread Group 1-1,text,true,,6087,1176,1,1,http://localhost/blog/admin/app/content/posts/postView.html,11,0,0
+1647975587303,147,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,126,0,0
+1647975612037,195,http://localhost/blog/admin/app/editor/editpost.cshtml,200,OK,Thread Group 1-1,text,true,,760983,14089,1,1,http://localhost/blog/admin/app/editor/editpost.cshtml,21,0,0
+1647975612236,16,http://localhost/blog/api/lookups,200,OK,Thread Group 1-1,text,true,,3776,1205,1,1,http://localhost/blog/api/lookups,16,0,0
+1647975612254,7,http://localhost/blog/api/tags?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,335,1216,1,1,http://localhost/blog/api/tags?take=0&skip=0,7,0,0
+1647975612263,0,Post publishing,200,"Number of samples in transaction : 0, number of failing samples : 0",Thread Group 1-1,,true,,0,0,1,1,null,0,201,0
+1647975612467,377,Delete post,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,5452006,18033,1,1,null,0,45544,2
+1647975612469,8,http://localhost/blog/api/customfields,200,OK,Thread Group 1-1,,true,,182,1277,1,1,http://localhost/blog/api/customfields,8,0,0
+1647975658012,72,http://localhost/blog/admin/#/content/posts,200,OK,Thread Group 1-1,text,true,,14438,11522,1,1,http://localhost/blog/admin/#/content/posts,6,0,2
+1647975658076,2,http://localhost/blog/admin/app/content/posts/postView.html,304,Not Modified,Thread Group 1-1,,true,,206,1262,1,1,http://localhost/blog/admin/app/content/posts/postView.html,0,0,0
+1647975658080,158,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,147,0,0
+1647975658239,6,http://localhost/blog/api/posts/processchecked/delete,200,OK,Thread Group 1-1,,true,,182,1538,1,1,http://localhost/blog/api/posts/processchecked/delete,6,0,0
+1647975658246,131,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,123,0,0
+1647975734443,6301,Login,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,4551440,58722,1,1,null,0,23477,48
+1647975734573,3270,http://localhost/blog/Account/Login.aspx,200,OK,Thread Group 1-1,text,true,,349886,28732,1,1,http://localhost/blog/,91,0,48
+1647975738689,2454,http://localhost/blog/admin/#/content/posts,200,OK,Thread Group 1-1,text,true,,711874,11087,1,1,http://localhost/blog/admin/#/content/posts,4,0,0
+1647975741140,6,http://localhost/blog/admin/app/content/posts/postView.html,200,OK,Thread Group 1-1,text,true,,6087,1176,1,1,http://localhost/blog/admin/app/content/posts/postView.html,6,0,0
+1647975741149,319,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,167,0,0
+1647975763926,218,http://localhost/blog/admin/app/editor/editpost.cshtml,200,OK,Thread Group 1-1,text,true,,760983,14089,1,1,http://localhost/blog/admin/app/editor/editpost.cshtml,8,0,0
+1647975764178,20,http://localhost/blog/api/lookups,200,OK,Thread Group 1-1,text,true,,3776,1205,1,1,http://localhost/blog/api/lookups,20,0,0
+1647975764206,14,http://localhost/blog/api/tags?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,335,1216,1,1,http://localhost/blog/api/tags?take=0&skip=0,14,0,0
+1647975764234,0,Post publishing,200,"Number of samples in transaction : 0, number of failing samples : 0",Thread Group 1-1,,true,,0,0,1,1,null,0,0,0
+1647975764239,375,Delete post,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,5452006,18033,1,1,null,0,38391,4
+1647975764240,8,http://localhost/blog/api/customfields,200,OK,Thread Group 1-1,,true,,182,1277,1,1,http://localhost/blog/api/customfields,8,0,0
+1647975802629,85,http://localhost/blog/admin/#/content/posts,200,OK,Thread Group 1-1,text,true,,14438,11522,1,1,http://localhost/blog/admin/#/content/posts,10,0,4
+1647975802719,2,http://localhost/blog/admin/app/content/posts/postView.html,304,Not Modified,Thread Group 1-1,,true,,206,1262,1,1,http://localhost/blog/admin/app/content/posts/postView.html,0,0,0
+1647975802722,145,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,133,0,0
+1647975802868,6,http://localhost/blog/api/posts/processchecked/delete,200,OK,Thread Group 1-1,,true,,182,1538,1,1,http://localhost/blog/api/posts/processchecked/delete,6,0,0
+1647975802876,129,http://localhost/blog/api/posts?skip=0&take=0,200,OK,Thread Group 1-1,text,true,,2718499,1217,1,1,http://localhost/blog/api/posts?take=0&skip=0,117,0,0
