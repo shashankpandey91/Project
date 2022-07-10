@@ -1,0 +1,115 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1657448972403,22123,Editor1,200,"Number of samples in transaction : 56, number of failing samples : 0",Thread Group 1-1,,true,,4000631,1495525,1,1,null,0,3691459,18
+1657448972405,648,Open HomePage,200,OK,Thread Group 1-1,text,true,,326436,11240,1,1,http://localhost/blog/,119,0,2
+1657448976923,534,Login,200,OK,Thread Group 1-1,text,true,,63619,30236,1,1,http://localhost/blog/,42,0,0
+1657449011761,237,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,40,0,0
+1657449060764,167,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,46,0,0
+1657449097408,176,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,46,0,0
+1657449125891,232,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,60,0,0
+1657449151490,385,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,30,0,0
+1657449200421,95,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,32,0,1
+1657449230693,111,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,42,0,0
+1657449275284,76,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,29,0,0
+1657449320257,169,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,41,0,0
+1657449360976,178,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,47,0,0
+1657449415613,160,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,39,0,0
+1657449457386,159,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,69,0,0
+1657449506363,116,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,62,0,0
+1657449563422,852,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,41,0,0
+1657449602760,81,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,40,0,0
+1657449628190,132,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,44,0,0
+1657449659219,199,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,30,0,0
+1657449685745,97,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,46,0,0
+1657449730012,197,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,66,0,0
+1657449753063,129,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,62,0,0
+1657449804799,164,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,54,0,0
+1657449859197,126,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,67,0,0
+1657449907803,150,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,32,0,0
+1657449956381,88,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,48,0,0
+1657449982830,214,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,46,0,0
+1657450023938,111,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,64,0,0
+1657450075158,105,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,51,0,0
+1657450106467,110,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,58,0,0
+1657450128810,105,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,65,0,0
+1657450165895,206,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,64,0,0
+1657450220688,255,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,102,0,0
+1657450242554,216,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,66,0,0
+1657450268038,255,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,92,0,0
+1657450294019,185,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,101,0,0
+1657450350023,2448,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,100,0,0
+1657450400504,193,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,96,0,0
+1657450450957,297,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,110,0,0
+1657450508420,200,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,92,0,0
+1657450548252,234,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,105,0,0
+1657450583527,128,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,60,0,0
+1657450613054,275,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,92,0,0
+1657450640164,201,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,99,0,0
+1657450680744,469,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,103,0,2
+1657452387852,5488,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,5179,0,2
+1657452460069,576,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,420,0,4
+1657452499065,244,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,119,0,0
+1657452533405,1176,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,85,0,2
+1657452568007,276,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,140,0,0
+1657452603445,274,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,68,0,2
+1657452661132,602,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,48114,28085,1,1,http://localhost/blog/2022/05/30/default,252,0,0
+1657452666797,996,Open Random Post,200,OK,Thread Group 1-1,text,true,,44904,29385,1,1,http://localhost/blog/post/task1100,738,0,3
+1657452667830,17,Debug Sampler,200,OK,Thread Group 1-1,text,true,,713,0,1,1,null,0,0,0
+1657452667850,425,Edit,200,OK,Thread Group 1-1,text,true,,1047891,13419,1,1,http://localhost/blog/admin/app/editor/editpost.cshtml?id=92012e9c-47bb-441e-b16b-65b0e67d9a43,135,0,0
+1657452685820,184,Logout,200,OK,Thread Group 1-1,text,true,,111368,6995,1,1,http://localhost/blog/Account/login.aspx?logoff=,33,0,0
+1657452686213,11091,Editor2,200,"Number of samples in transaction : 56, number of failing samples : 0",Thread Group 1-1,,true,,2504500,1502752,1,1,null,0,1869731,19
+1657452686214,763,Open HomePage,200,OK,Thread Group 1-1,text,true,,47308,28067,1,1,http://localhost/blog/,421,0,0
+1657452695411,506,Login,200,OK,Thread Group 1-1,text,true,,45546,31096,1,1,http://localhost/blog/,85,0,0
+1657452744433,192,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,74,0,3
+1657452785025,234,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,129,0,0
+1657452812615,299,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,108,0,3
+1657452849807,217,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,112,0,0
+1657452905297,351,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,113,0,3
+1657452947580,213,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,100,0,0
+1657452988285,420,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,87,0,2
+1657453046023,332,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,226,0,0
+1657453087931,312,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,95,0,3
+1657453130082,176,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,93,0,0
+1657453186569,308,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,95,0,2
+1657453206938,203,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,96,0,0
+1657453245138,142,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,85,0,0
+1657453277319,218,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,67,0,1
+1657453326564,300,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,150,0,0
+1657453359697,359,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,101,0,1
+1657453387788,198,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,97,0,0
+1657453431218,514,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,99,0,0
+1657453463332,259,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,88,0,0
+1657453510496,86,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,27,0,0
+1657453531807,56,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,30,0,0
+1657453554976,60,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,27,0,0
+1657453581247,111,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,29,0,0
+1657453612183,155,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,26,0,0
+1657453656153,80,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657453712759,54,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,26,0,0
+1657453735760,96,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,29,0,0
+1657453765965,53,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657453810691,76,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,28,0,1
+1657453830839,55,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657453883746,257,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,31,0,0
+1657453923567,89,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,26,0,0
+1657453950109,81,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657453972802,51,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,23,0,0
+1657453992835,50,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,24,0,0
+1657454050036,78,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,28,0,0
+1657454092835,273,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,32,0,0
+1657454120886,61,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,26,0,0
+1657454156199,57,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,27,0,0
+1657454179885,62,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657454218840,56,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,24,0,0
+1657454250765,58,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,27,0,0
+1657454291774,82,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657454338102,62,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,31,0,0
+1657454362220,66,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,25,0,0
+1657454383997,52,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,22,0,0
+1657454408506,493,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,32,0,0
+1657454466580,64,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,28,0,0
+1657454497881,66,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,26,0,0
+1657454544145,79,Open Predefined Date,200,OK,Thread Group 1-1,text,true,,45184,28085,1,1,http://localhost/blog/2022/05/30/default,27,0,0
+1657454544760,141,Open Random Post,200,OK,Thread Group 1-1,text,true,,41983,29471,1,1,http://localhost/blog/post/task1100,90,0,0
+1657454544909,2,Debug Sampler,200,OK,Thread Group 1-1,text,true,,490,0,1,1,null,0,0,0
+1657454544911,1385,Edit,200,OK,Thread Group 1-1,text,true,,99949,2480,1,1,http://localhost/,1380,0,0
+1657454567011,28,Logout,200,OK,Thread Group 1-1,text,true,,10024,7388,1,1,http://localhost/blog/Account/login.aspx?logoff=,11,0,0
